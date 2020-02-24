@@ -4,7 +4,7 @@ This program queries the Last FM api on wcyt.org and displays the result for the
 
 ## Installing
 
-Download the latest build from the [releases](-/tags) tab.
+Download the latest build from the [releases](../-/tags) tab.
 
 ## Development
 
