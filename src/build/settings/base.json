@@ -1,0 +1,6 @@
+{
+    "app_name": "Last FM Searcher",
+    "author": "Chris Wang",
+    "main_module": "src/main/python/main.py",
+    "version": "1.0.0"
+}

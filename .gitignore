@@ -1,0 +1,4 @@
+.vscode
+env
+target
+__pycache__
